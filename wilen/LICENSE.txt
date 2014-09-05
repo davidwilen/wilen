@@ -1,4 +1,4 @@
-Copyright (c) 2014 Dave
+Copyright (c) 2014 David Wilen
 
 MIT License
 

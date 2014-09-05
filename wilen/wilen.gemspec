@@ -6,7 +6,7 @@ require 'wilen/version'
 Gem::Specification.new do |spec|
   spec.name          = "wilen"
   spec.version       = Wilen::VERSION
-  spec.authors       = ["Dave"]
+  spec.authors       = ["David Wilen"]
   spec.email         = ["davidwilen@gmail.com"]
   spec.summary       = %q{TODO: Write a short summary. Required.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
